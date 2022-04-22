@@ -1,0 +1,16 @@
+.OASIS {
+    font-family: "Helvetica", sans-serif;
+    color: black;
+    border: 5px solid black;
+}
+
+.future {
+    background-color: #F1F0EF;
+    color: #00477B;
+    font-weight: bold;
+}
+
+.opportunity {
+    margin: 5px;
+    padding-bottom: 5px;
+}
