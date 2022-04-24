@@ -1,0 +1,33 @@
+.byOASIS {
+    font-family: "Helvetica", sans-serif;
+    background-color: black;
+    color: #f1f0ef;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+
+
+.future {
+    background-color: #f1f0ef;
+    color: #00477B;
+    font-weight: bold;
+    text-align: center
+}
+
+.opportunity {
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.past {
+    color:  #173B3F;
+    font-family: 'Inria Serif', serif;
+}
+
+.Lyric{
+    border: 5px solid black;
+    background-color: white;
+    margin: 10px;
+
+}
