@@ -4,6 +4,6 @@ function whereto(){
 }
 
 function wherefrom(){
-    document.getElementById("role").innerHTML = " Sales ☎️";
+    document.getElementById("role").innerHTML = " SALES ☎️";
     document.getElementById('role').className = "past";
 }
